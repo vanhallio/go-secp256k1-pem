@@ -1,4 +1,4 @@
-package main
+package s256_pem
 
 import (
 	"crypto/elliptic"
